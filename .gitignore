@@ -1,0 +1,3 @@
+# ingoring large csv in datasets folder
+datasets/clickstream_raw.csv
+datasets/train_v2.csv
